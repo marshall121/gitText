@@ -1,0 +1,12 @@
+﻿1、初始化git 仓库
+   git init
+2、git add 文件名  把 文件添加到仓库
+
+3、git commit -m “第一次提交”。
+
+4、git diff --cached
+
+5、
+
+6、
+
